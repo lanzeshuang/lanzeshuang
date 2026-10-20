@@ -1,16 +1,32 @@
-## Hi there 👋
+# 你好，我是兰泽双 👋
 
-<!--
-**lanzeshuang/lanzeshuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 建筑维修加固 15 年，正在把 AI 和自动化搬进传统车间和工地。
 
-Here are some ideas to get you started:
+## 🔧 我在做什么
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **结构加固** — 碳纤维布加固、粘钢、增大截面、裂缝注胶修补
+- **防水堵漏** — 屋面、地下室、卫生间、外墙渗漏治理
+- **现场诊断** — 裂缝成因判断、含水率与温湿度对材料固化的影响把控
+- **数字化** — 用 AI 做施工记录、案例沉淀、SEO 获客，把老师傅的经验变成可复用的资料
+
+## 🏗️ 专业方向
+
+| 领域 | 关键点 |
+| --- | --- |
+| 碳纤维加固 | 基层打磨、结构胶配比、环境温度窗口、养护周期 |
+| 裂缝注胶 | 缝宽判定、灌注压力、封缝料选择、固化时间 |
+| 防水堵漏 | 找漏点、背水面与迎水面处理、材料相容性 |
+
+## 🌐 找到我
+
+- 官网：<https://www.jzwxfw.top>
+- 工作地：四川 · 成都
+- 品牌：佳固顺通
+
+## 🧭 这个账号用来做什么
+
+记录我在建筑加固领域的技术实践，以及用 AI 辅助传统行业的一些尝试。项目陆续整理中。
+
+---
+
+<sub>手艺是底气，记录是复利。</sub>
